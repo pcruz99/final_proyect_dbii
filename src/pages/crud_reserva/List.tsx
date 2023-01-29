@@ -1,6 +1,11 @@
+import { ListReserva } from "@/sections/reserva"
+
 const list = () => {
   return (
-    <div>list</div>
+    <div>
+      <ListReserva/>
+
+    </div>
   )
 }
 

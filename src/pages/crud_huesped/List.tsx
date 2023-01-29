@@ -1,7 +1,12 @@
+import { ListHuesped } from "@/sections/huesped"
+
 
 const List = () => {
   return (
-    <div>list</div>
+    <div>
+      <ListHuesped/>
+
+    </div>
   )
 }
 

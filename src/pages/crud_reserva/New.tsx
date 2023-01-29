@@ -1,9 +1,12 @@
-import { NewHuesped } from "@/sections/huesped"
+import { NewReserva } from "@/sections/reserva";
+import React from "react";
 
-const New = () => {
+export const New = () => {
   return (
-    <NewHuesped/>
-  )
-}
+    <>
+      <NewReserva />
+    </>
+  );
+};
 
 export default New
