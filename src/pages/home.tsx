@@ -6,7 +6,7 @@ const home = () => {
   return (
     <>
       <div>
-        <Dashboard />
+        {/* <Dashboard /> */}
 
       </div>
     </>
